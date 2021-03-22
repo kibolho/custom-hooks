@@ -188,7 +188,7 @@ Project Link: [https://github.com/kibolho/customHooks](https://github.com/kibolh
 [issues-shield]: https://img.shields.io/github/issues/kibolho/custom-hooks.svg?style=for-the-badge
 [issues-url]: https://github.com/kibolho/custom-hooks/issues
 [license-shield]: https://img.shields.io/github/license/kibolho/custom-hooks.svg?style=for-the-badge
-[license-url]: https://github.com/kibolho/custom-hooks/blob/master/LICENSE.txt
+[license-url]: https://github.com/kibolho/custom-hooks/blob/master/./github/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/abilioazevedo/
 [product-screenshot]: .github/logo.png
